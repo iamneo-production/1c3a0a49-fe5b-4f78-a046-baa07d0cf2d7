@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import Movies from './movies/Movies';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello Tiny Coders Team</h1>
+      Hello World
     </div>
   );
 }

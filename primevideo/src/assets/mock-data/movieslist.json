@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "title": "John Wick",
+        "genre": "Action",
+        "year": 2014,
+        "langauge":"English"
+    },{
+        "id": 2,
+        "title": "Evil Dead",
+        "genre": "Horror",
+        "year": 2013,
+        "langauge":"English"
+    },{
+        "id": 3,
+        "title": "Jersey",
+        "genre": "Drama",
+        "year": 2022,
+        "langauge":"Telugu"
+    },{
+        "id": 4,
+        "title": "Vikram",
+        "genre": "Action",
+        "year": 2022,
+        "langauge":"Tamil"
+    },{
+        "id": 5,
+        "title": "Oppenheimer",
+        "genre": "Documentation",
+        "year": 2023,
+        "langauge":"English"
+    }
+]
