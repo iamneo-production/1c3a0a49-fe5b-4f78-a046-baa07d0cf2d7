@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "title": "FRIENDS",
+        "genre": ["comedy","romance"],
+        "year": 1994,
+        "langauge": "English",
+        "rating": 8.9,
+        "poster": "https://tse1.mm.bing.net/th/id/OIP.TK4cnwDCwgQxKmkBJe9BEQHaHa?w=164&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    },{
+        "id": 2,
+        "title": "Money Heist",
+        "genre": ["comedy","crime","drama"],
+        "year": 2017,
+        "langauge": "Spanish",
+        "rating": 8.2,
+        "poster": "https://tse1.mm.bing.net/th/id/OIP.TK4cnwDCwgQxKmkBJe9BEQHaHa?w=164&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    }
+]
