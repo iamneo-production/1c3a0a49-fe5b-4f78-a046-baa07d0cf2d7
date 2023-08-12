@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "title": "Pursuit of Happiness",
+        "genre": ["drama"],
+        "year": 2006,
+        "langauge": "English",
+        "rating": 8,
+        "poster": "https://tse1.mm.bing.net/th/id/OIP.TK4cnwDCwgQxKmkBJe9BEQHaHa?w=164&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    },{
+        "id": 2,
+        "title": "Knives Out",
+        "genre": ["crime"],
+        "year": 2019,
+        "langauge": "English",
+        "rating": 7.9,
+        "poster": "https://tse1.mm.bing.net/th/id/OIP.TK4cnwDCwgQxKmkBJe9BEQHaHa?w=164&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    },{
+        "id": 3,
+        "title": "The Notebook",
+        "genre": ["drama","romance"],
+        "year": 2004,
+        "langauge": "English",
+        "rating": 7.8,
+        "poster": "https://tse1.mm.bing.net/th/id/OIP.TK4cnwDCwgQxKmkBJe9BEQHaHa?w=164&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    },{
+        "id": 4,
+        "title": "Jersey",
+        "genre": ["sports"],
+        "year": 2019,
+        "langauge": "Telugu",
+        "rating": 8.5,
+        "poster": "https://tse1.mm.bing.net/th/id/OIP.TK4cnwDCwgQxKmkBJe9BEQHaHa?w=164&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    },{
+        "id": 5,
+        "title": "Vikram",
+        "genre": ["action","crime","thriller"],
+        "year": 2022,
+        "langauge": "Tamil",
+        "rating": 8.3,
+        "poster": "https://tse1.mm.bing.net/th/id/OIP.TK4cnwDCwgQxKmkBJe9BEQHaHa?w=164&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    },{
+        "id": 6,
+        "title": "Soorarai Pottru",
+        "genre": ["action","drama"],
+        "year": 2019,
+        "langauge": "Tamil",
+        "rating": 8.7,
+        "poster": "https://tse1.mm.bing.net/th/id/OIP.TK4cnwDCwgQxKmkBJe9BEQHaHa?w=164&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    },{
+        "id": 7,
+        "title": "The Great Hypnotist",
+        "genre": ["drama","mystery","thriller"],
+        "year": 2014,
+        "langauge": "Chinese",
+        "rating": 7,
+        "poster": "https://tse1.mm.bing.net/th/id/OIP.TK4cnwDCwgQxKmkBJe9BEQHaHa?w=164&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    },{
+        "id": 8,
+        "title": "Insidious",
+        "genre": ["horror"],
+        "year": 2011,
+        "langauge": "English",
+        "rating": 6.8,
+        "poster": "https://tse1.mm.bing.net/th/id/OIP.TK4cnwDCwgQxKmkBJe9BEQHaHa?w=164&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    },{
+        "id": 9,
+        "title": "127 Hours",
+        "genre": ["biography","drama"],
+        "year": 2019,
+        "langauge": "Telugu",
+        "rating": 8.5,
+        "poster": "https://tse1.mm.bing.net/th/id/OIP.TK4cnwDCwgQxKmkBJe9BEQHaHa?w=164&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    },{
+        "id": 10,
+        "title": "Your Name",
+        "genre": ["animation","drama","fantasy"],
+        "year": 2016,
+        "langauge": "Japanese",
+        "rating": 8.4,
+        "poster": "https://tse1.mm.bing.net/th/id/OIP.TK4cnwDCwgQxKmkBJe9BEQHaHa?w=164&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    }
+]
