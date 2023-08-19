@@ -1,12 +1,15 @@
 import MoviesList from '../assets/mock-data/movieslist.json';
-
-function Movies(){
+import { useParams } from "react-router-dom";
+function MovieId(){
+    let params=useParams();
+    let {id}=params;
     return(
         <>
+            <div>You entered {id}</div>
             {
-                MoviesList.length<1
-                ?<div>Currently no movies available</div>
-                :MoviesList.map((movie)=>{
+                MoviesList.filter(movie=>movie.id==id).length<1?
+                <div>Movie not found</div>
+                :MoviesList.filter(movie=>movie.id==id).map(movie=>{
                     return(
                         <div key={movie.id}>
                             <figure>
@@ -28,5 +31,4 @@ function Movies(){
         </>
     );
 }
-
-export default Movies;
+export default MovieId;
