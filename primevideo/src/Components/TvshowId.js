@@ -1,12 +1,15 @@
 import TvShowsList from '../assets/mock-data/tvshowslist.json';
+import { useParams } from "react-router-dom";
 
-function Tvshows(){
+function TvshowId(){
+    let params=useParams();
+    let {id}=params;
     return(
         <>
             {
-                TvShowsList.length<1
-                ?<div>Currently no TV shows available</div>
-                :TvShowsList.map((tvshow)=>{
+                TvShowsList.filter(tvshow=>tvshow.id==id).length<1?
+                <div>TV show not found</div>
+                :TvShowsList.filter(tvshow=>tvshow.id==id).map((tvshow)=>{
                     return(
                         <div key={tvshow.id}>
                             <figure>
@@ -28,5 +31,4 @@ function Tvshows(){
         </>
     );
 }
-
-export default Tvshows;
+export default TvshowId;
